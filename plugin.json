@@ -1,0 +1,12 @@
+{
+    "ID": "72BAC1F9-8D3C-4935-AC70-D3E6D7307D57",
+    "ActionKeyword": "bc",
+    "Name": "BluetoothConnector",
+    "Description": "a new plugin for Flow",
+    "Author": "harrynull",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/harrynull/Flow.Launcher.Plugin.BluetoothConnector",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.BluetoothConnector.dll"
+}
